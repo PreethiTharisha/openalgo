@@ -1,0 +1,5 @@
+# Ignore runtime database files
+OpenAlgo/db/*.db
+OpenAlgo/db/*.db-*
+OpenAlgo/db/*.sqlite
+OpenAlgo/db/*.sqlite3
